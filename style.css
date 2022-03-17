@@ -18,9 +18,7 @@ div > img {
     align-items: center;
     padding: 10px;
 }
-header > div {
-    background-color:#ffffff ;
-}
+
 header > div > ul > li {
     background-color: #ffffff;
     display: inline;
@@ -39,6 +37,7 @@ header > div {
     justify-content: space-between;
     margin-left: 45px;
     margin-right: 45px;
+    background-color:#ffffff 
 }
 
 main {
